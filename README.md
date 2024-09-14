@@ -16,11 +16,12 @@
    python TableRecognition.py
    ```
 ## 二、运行截图
-![运行截图](https://www.picgo.net/image/1.ojk9G7)
 
-![原图](https://www.picgo.net/image/1.ojo85l)
+![运行截图](https://img.picgo.net/2024/09/14/126f955572c258159.jpeg)
 
-![效果图](https://www.picgo.net/image/2.ojoRXj)
+![原图](https://img.picgo.net/2024/09/14/1ac3a391cd7b7435b.jpeg)
+
+![效果图](https://img.picgo.net/2024/09/14/2789aea21ff6f7b55.jpeg)
 
 ## 三、打包成可执行文件
 1. 通过pip安装pyinstaller依赖
