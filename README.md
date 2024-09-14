@@ -32,3 +32,4 @@
     ```shell
     pyinstaller --onefile TableRecognition.py
     ```
+3. 在TableRecognition.exe同级目录下添加config.ini配置文件
